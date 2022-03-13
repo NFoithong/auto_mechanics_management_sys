@@ -5,6 +5,7 @@
   - [User Story](#user-story)
   - [Technologies](#technologies)
   - [Acceptance Criteria](#acceptance-criteria)
+  - [Mockup and Prototype](#Mockup and Prototype)
   - [Link to deployed Heroku application:](#link-to-deployed-heroku-application)
   - [Installation](#installation)
 
@@ -44,6 +45,12 @@ THEN I am presented with the homepage, which includes the navigation links for t
   THEN I am signed out of the site
 - WHEN I am idle on the site for more than a set time
   THEN  I am prompted to log in again before I can add appointments
+
+## Mockup and Prototype
+
+click link to see mockupdesign and prototyping
+
+https://www.figma.com/proto/xtTTkjbXDemiMTkIKfCKHT/Group4-project2-prototype-v1-final?node-id=99%3A547&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=99%3A547&show-proto-sidebar=1
 
 ## Link to deployed Heroku application:
 https://fast-n-furious.herokuapp.com/ 
