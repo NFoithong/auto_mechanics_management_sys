@@ -62,5 +62,5 @@ $ npm start
 
 
 
-<img width="1186" alt="ScreenShot" src="https://user-images.githubusercontent.com/37507020/157574072-df3b7def-0a2d-4ec1-8a49-a78e82032915.png">
+<img width="1186" alt="ScreenShot" src="https://user-images.githubusercontent.com/69065671/158042302-a2c8d1c5-f4e4-4ac1-9df5-0343870c0464.png">
 
