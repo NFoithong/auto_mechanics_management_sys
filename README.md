@@ -6,9 +6,9 @@
   - [Technologies](#technologies)
   - [Acceptance Criteria](#acceptance-criteria)
   - [Installation](#installation)
-  - [Mockup and Prototype](#Mockup and Prototype)
+  - [Mockup and Prototype](#mockup and prototype)
   - [Link to deployed Heroku application:](#link-to-deployed-heroku-application)
-  - [Contributors](#Contributors)
+  - [Contributors](#contributors)
 
 ## User Story
 AS A Car Owner who wants to maintain the health of my car
