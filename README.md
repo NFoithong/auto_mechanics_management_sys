@@ -6,7 +6,7 @@
   - [Technologies](#technologies)
   - [Acceptance Criteria](#acceptance-criteria)
   - [Installation](#installation)
-  - [Mockup](#mockup and prototype)
+  - [Mockup](#mockup)
   - [Link to deployed Heroku application:](#link-to-deployed-heroku-application)
   - [Contributors](#contributors)
 
@@ -56,7 +56,7 @@ $ cd ../path/to/the/file
 $ npm install
 $ npm start
 
-## Mockup and Prototype
+## Mockup
 
 click link to see mockupdesign and prototyping
 
