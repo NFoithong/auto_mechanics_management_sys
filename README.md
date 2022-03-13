@@ -5,10 +5,10 @@
   - [User Story](#user-story)
   - [Technologies](#technologies)
   - [Acceptance Criteria](#acceptance-criteria)
-  - [Contributors](#Contributors)
+  - [Installation](#installation)
   - [Mockup and Prototype](#Mockup and Prototype)
   - [Link to deployed Heroku application:](#link-to-deployed-heroku-application)
-  - [Installation](#installation)
+  - [Contributors](#Contributors)
 
 ## User Story
 AS A Car Owner who wants to maintain the health of my car
@@ -47,10 +47,14 @@ THEN I am presented with the homepage, which includes the navigation links for t
 - WHEN I am idle on the site for more than a set time
   THEN  I am prompted to log in again before I can add appointments
 
-## Contributors
-- @rdenton3 (https://github.com/rdenton3)
-- @Maryjezek (https://github.com/Maryjezek)
-- @NFoithong
+## Installation
+
+To install this application: 
+
+$ git clone {address}
+$ cd ../path/to/the/file
+$ npm install
+$ npm start
 
 ## Mockup and Prototype
 
@@ -62,18 +66,11 @@ https://www.figma.com/proto/xtTTkjbXDemiMTkIKfCKHT/Group4-project2-prototype-v1-
  - Heroku https://fast-n-furious.herokuapp.com/ 
  - GitHub https://github.com/NFoithong/auto_mechanics_management_sys
 
-## Installation
-
-To install this application: 
-
-$ git clone {address}
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-
-
-
 ## Screenshot od Live Application
 
 <img width="1186" alt="ScreenShot" src="https://user-images.githubusercontent.com/69065671/158042302-a2c8d1c5-f4e4-4ac1-9df5-0343870c0464.png">
 
+## Contributors
+- @rdenton3 (https://github.com/rdenton3)
+- @Maryjezek (https://github.com/Maryjezek)
+- @NFoithong
