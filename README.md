@@ -60,7 +60,7 @@ https://www.figma.com/proto/xtTTkjbXDemiMTkIKfCKHT/Group4-project2-prototype-v1-
 
 ## Link to deployed application:
  - Heroku https://fast-n-furious.herokuapp.com/ 
- - GitHub https://github.com/NFoithong/auto_mechanics_management_sys/edit/main/README.md
+ - GitHub https://github.com/NFoithong/auto_mechanics_management_sys
 
 ## Installation
 
