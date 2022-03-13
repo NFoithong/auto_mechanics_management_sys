@@ -6,7 +6,7 @@
   - [Technologies](#technologies)
   - [Acceptance Criteria](#acceptance-criteria)
   - [Installation](#installation)
-  - [Mockup and Prototype](#mockup and prototype)
+  - [Mockup](#mockup and prototype)
   - [Link to deployed Heroku application:](#link-to-deployed-heroku-application)
   - [Contributors](#contributors)
 
