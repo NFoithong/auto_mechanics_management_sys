@@ -17,7 +17,7 @@ I WANT a CMS-style application site
 SO THAT I can be a aware of the status repairs, and appointments.
 
 ## Technologies
-We used Node.js, Express.js, Handlebars, Bootstrap, Sequelize, Figma, Fullpage.js
+We used Node.js, Express.js, Handlebars, Bootstrap, Sequelize, Figma, Fullpage.js, bcrypt
 
 ## Acceptance Criteria
 GIVEN a CMS-style application site
