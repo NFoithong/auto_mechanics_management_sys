@@ -68,7 +68,7 @@ https://www.figma.com/proto/xtTTkjbXDemiMTkIKfCKHT/Group4-project2-prototype-v1-
  - Heroku https://fast-n-furious.herokuapp.com/ 
  - GitHub https://github.com/NFoithong/auto_mechanics_management_sys
 
-## Screenshot od Live Application
+## Screenshot of Live Application
 
 <img width="1186" alt="ScreenShot" src="https://user-images.githubusercontent.com/69065671/158042302-a2c8d1c5-f4e4-4ac1-9df5-0343870c0464.png">
 
