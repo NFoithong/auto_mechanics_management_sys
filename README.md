@@ -8,6 +8,7 @@
   - [Acceptance Criteria](#acceptance-criteria)
   - [Installation](#installation)
   - [Mockup](#mockup)
+  - [Usage](#usage)
   - [Link to deployed Heroku application:](#link-to-deployed-heroku-application)
   - [Contributors](#contributors)
 
@@ -70,6 +71,9 @@ https://www.figma.com/proto/xtTTkjbXDemiMTkIKfCKHT/Group4-project2-prototype-v1-
 ## Screenshot od Live Application
 
 <img width="1186" alt="ScreenShot" src="https://user-images.githubusercontent.com/69065671/158042302-a2c8d1c5-f4e4-4ac1-9df5-0343870c0464.png">
+
+## Usage
+Please reference this video if you would like to see a walkthrough of how the application functions. https://drive.google.com/file/d/1F4KRttfRozSSL14Mk6PzBnO9HzjHjvQM/view
 
 ## Contributors
 - @rdenton3 (https://github.com/rdenton3)
